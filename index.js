@@ -28,3 +28,7 @@ const codeOne = (25 - 15);
 // Created variable for 2nd code in combination
 
 const codeTwo = (10 * 4);
+
+// Created variable for 3rd code in combination
+
+const codeThree = (55 - 11);
