@@ -10,4 +10,5 @@ Step 3a: Calculation using arithmetic operator: 10 * 4
 Step 4: Assign the last variable containing the result of a calculation using an arithmetic operator to equal the last code in the combination.
 Step 4a: Calculation using arithmetic operator: 50 - 11
 Step 5: Add comments throughout the code to explain each step
+Step 6: Make a dialog box that displays the vault codes and the text with a popup dialog
 */
