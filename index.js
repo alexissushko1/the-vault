@@ -32,3 +32,7 @@ const codeTwo = (10 * 4);
 // Created variable for 3rd code in combination
 
 const codeThree = (55 - 11);
+
+// Made an alert to create a dialog box displaying the codes
+
+alert(codeOne + " - " + codeTwo + " - " + codeThree);
