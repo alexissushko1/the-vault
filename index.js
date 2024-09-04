@@ -24,3 +24,7 @@ console.log(vaultMessage);
 // Created variable for 1st code in combination
 
 const codeOne = (25 - 15);
+
+// Created variable for 2nd code in combination
+
+const codeTwo = (10 * 4);
