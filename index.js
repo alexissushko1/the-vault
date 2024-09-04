@@ -16,3 +16,7 @@ Step 6: Make a dialog box that displays the vault codes and the text with a popu
 //String created with the variable of vaultMessage that displays "You have received this message because you have been chosen to open an important vault. Here is the secret combination: ";
 
 const vaultMessage = "You have received this message because you have been chosen to open an important vault. Here is the secret combination: ";
+
+// Log string vaultMessage
+
+console.log(vaultMessage);
