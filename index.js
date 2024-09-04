@@ -20,3 +20,7 @@ const vaultMessage = "You have received this message because you have been chose
 // Log string vaultMessage
 
 console.log(vaultMessage);
+
+// Created variable for 1st code in combination
+
+const codeOne = (25 - 15);
